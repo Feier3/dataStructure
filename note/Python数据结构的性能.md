@@ -30,3 +30,5 @@
 | contains(in)  (包含 in) |        O(1)         |
 |     iteration(迭代)     |        O(n)         |
 
+Python数据结构性能速查：https://wiki.python.org/moin/TimeComplexity
+
