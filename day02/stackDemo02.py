@@ -18,7 +18,7 @@
 #     return binString
 
 # print(divide2(233))
-
+ 
 
 '''
 八进制，十六进制
