@@ -1,3 +1,5 @@
+Python数据结构性能速查：https://wiki.python.org/moin/TimeComplexity
+
 ### 列表操作时间复杂度
 
 |       操作       | 时间效率(大O表示法) |
@@ -30,5 +32,5 @@
 | contains(in)  (包含 in) |        O(1)         |
 |     iteration(迭代)     |        O(n)         |
 
-Python数据结构性能速查：https://wiki.python.org/moin/TimeComplexity
+
 

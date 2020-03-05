@@ -101,7 +101,7 @@ def isValid(s):
 
 print(isValid("{{}}[((()))]"))
 
- 
+
 
 # 解法二
 from pythonds.basic.stack import Stack
