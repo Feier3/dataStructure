@@ -42,3 +42,12 @@ def toStr(n, base):
 
 print(toStr(100, 10))
 print(toStr(1453, 16))
+
+
+#栈 实现递归
+
+from pythonds.basic.stack import Stack
+
+rStack=Stack()
+def toStr():
+
