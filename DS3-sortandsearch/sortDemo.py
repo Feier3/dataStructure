@@ -84,5 +84,6 @@ def shell_sort(arr):
         gap=math.floor(gap/3)
     return arr
 
+
 alist = [54, 26, 93, 17, 77, 31, 44, 55, 20]
 print(shell_sort(alist))
